@@ -1,0 +1,17 @@
+{
+  "name": "5_projeto_contas",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Rmqx",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "inquirer": "^9.2.23"
+  }
+}
