@@ -301,21 +301,3 @@ operation() — exibe menu
 
 ---
 
-## Conceitos do curso exercitados aqui
-
-| Conceito | Onde aparece |
-|---|---|
-| `inquirer` | Menu e todas as perguntas |
-| `chalk` | Feedbacks coloridos |
-| `fs.writeFileSync` | Criar e atualizar contas |
-| `fs.readFileSync` | Ler dados da conta |
-| `fs.existsSync` | Verificar se conta existe |
-| `fs.mkdirSync` | Criar pasta `accounts/` |
-| `JSON.parse` / `JSON.stringify` | Converter arquivo ↔ objeto |
-| `parseFloat` | Operar com valores monetários |
-| Recursão | Loop de menu e revalidação |
-| `Intl.NumberFormat` | Formatação de moeda |
-
----
-
-> **Este é o projeto mais completo até aqui.** Se você entende cada função e consegue explicar o fluxo de um depósito do início ao fim, você está pronto para construir APIs REST com Express — onde a lógica é a mesma, mas as operações são feitas em banco de dados em vez de arquivos JSON.
